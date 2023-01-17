@@ -1,4 +1,4 @@
-//Noah Beightol, Arup Guha, UCF ID: 5388648, 3/21/2022
+//Noah Beightol, Arup Guha, 3/21/2022
 #include  <stdlib.h>
 #include <stdio.h>
 #include <string.h>
