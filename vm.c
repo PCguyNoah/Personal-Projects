@@ -1,4 +1,4 @@
-//Noah Beightol, fall 2022, COP 3402, UCF ID: 5388648
+//Noah Beightol, fall 2022, COP 3402
 //Last edited 09/15/22
 #include <stdio.h>
 #include <stdlib.h>
