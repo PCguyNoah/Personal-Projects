@@ -1,4 +1,4 @@
-// Noah Beightol, UCF ID: 5388648, COP 3503, Fall 2022, SneakyQueens.java
+// Noah Beightol, COP 3503, Fall 2022, SneakyQueens.java
 // last edited: 09/04/2022
 
 import java.util.*;
