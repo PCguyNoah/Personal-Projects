@@ -1,8 +1,5 @@
-/* Noah Beightol
- * Dr. Steinberg
- * COP3503 Spring 2023
- * Programming Assignment 1
- */
+// Noah Beightol
+
  import java.util.*;
  import java.io.*;
 
