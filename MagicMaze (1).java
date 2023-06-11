@@ -1,8 +1,4 @@
-/*  Noah Beightol
- *  COP3503 Computer Science 2
- *  Programming Assignment 2
- *  Spring 2023
- */
+// Noah Beightol
 
 // import statements
 import java.util.*;
