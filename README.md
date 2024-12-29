@@ -1,2 +1,2 @@
 # Collection of programming projects
-Just a place where I can store my previous work
+This is a collection of programming assignments I completed while attending university.
